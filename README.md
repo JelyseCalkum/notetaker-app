@@ -2,7 +2,7 @@
 
 A note taking application allowing users to create, save, and delete notes using an Express.js backend.
 
-You can check out the deployed application here: //
+You can check out the deployed application here: https://arcane-tor-51767.herokuapp.com/
 
 ## Screenshots
 
