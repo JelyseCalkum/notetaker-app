@@ -1,14 +1,25 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "A note taking application allowing users to create, save, and delete notes using Express.js.# notetaker-app",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "Jelyse Calkum",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.16.4",
+    "inquirer": "^9.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JelyseCalkum/notetaker-app.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/JelyseCalkum/notetaker-app/issues"
+  },
+  "homepage": "https://github.com/JelyseCalkum/notetaker-app#readme"
 }
