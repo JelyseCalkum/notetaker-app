@@ -6,6 +6,11 @@ You can check out the deployed application here: //
 
 ## Screenshots
 
+![Screenshot-mainpage](https://user-images.githubusercontent.com/115381607/231253579-e5723d12-2988-4057-9d7e-1544d9db4f50.png)
+
+![Screenshot-2](https://user-images.githubusercontent.com/115381607/231253623-f11803e7-0d99-40ff-ae77-842275d377c6.png)
+
+
 ## Technologies Used
 
 *Node.js, Expres.js, JavaScript, HTML/CSS*
@@ -27,5 +32,7 @@ Thank you to the UofO Coding Bootcamp for providing the starter code and providi
 ## Author
 
 *Jelyse Calkum*
+
 *GitHub: https://github.com/JelyseCalkum/*
+
 *Email: Jelyse.Lauren@Gmail.com* 
